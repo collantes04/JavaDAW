@@ -5,10 +5,9 @@ public static void main(String[] args) {
         int[][] matriz = {{8, 1, 6},
                         {3, 5, 7},
                         {4, 9, 2}};
-
         int diagonal_principal = 0;
         int diagonal_secundaria = 0;
-        int columnas;
+        int columnas = 0;
         int filas = 0;
         boolean esMagico = true;
 
